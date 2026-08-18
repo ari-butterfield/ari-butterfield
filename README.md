@@ -6,7 +6,7 @@ Analytics engineer with 2+ years on defense and aerospace programs. I led a back
  
 **[airbnb-database](https://github.com/ari-butterfield/airbnb-database)** — A 28-table MySQL schema for the Airbnb domain (users, hosts, listings, bookings, reviews, payments), normalized to 3NF, with stored procedures for the property and booking flows. Spins up with `docker compose up`. The procedures have assertion tests behind them, which caught an aliasing bug that was quietly returning the wrong listing's pricing.
  
-**[stock-calculator](https://github.com/ari-butterfield/stock-calculator)** — Flask app that pulls live market data from Yahoo Finance and computes valuation and risk metrics: P/E, PEG, ROE, five-year volatility, Sharpe. pandas for the transforms, pytest for the calculations, deployed on Render. [Live demo](https://stock-calculator-ekt0.onrender.com) — give it ~30s to wake up.
+**[stock-calculator](https://github.com/ari-butterfield/stock-calculator)** — Flask app that pulls live market data from Yahoo Finance and computes valuation and risk metrics: P/E, PEG, ROE, five-year volatility, Sharpe. pandas for the transforms, pytest for the calculations, deployed on Render. [Live demo](https://178-104-54-101.sslip.io/) — give it ~30s to wake up.
  
 ### Tools
  
