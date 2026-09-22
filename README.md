@@ -12,7 +12,7 @@ Analytics engineer with 2+ years on defense and aerospace programs. I led a back
  
 ### Tools
  
-SQL (CTEs, window functions, query tuning) · Python (pandas, NumPy, PySpark) · PostgreSQL · MySQL · ETL/ELT design · data quality testing · relational data modeling (ER, 3NF) · Power BI · Docker · Git · CI/CD · AWS
+SQL (CTEs, window functions, query tuning) · Python (pandas, NumPy, PySpark) · PostgreSQL · MySQL · ETL/ELT design · data quality testing · relational data modeling (ER, 3NF) · Power BI · Docker · Git · CI/CD · AWS · dbt
  
 ---
  
